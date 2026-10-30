@@ -4,45 +4,34 @@
 
 <h1 align="center">I build with data, models, and curious people.</h1>
 
-<p align="center">
-  Ayush Saxena · Data Science · Machine Learning · Research
-  <br>
-  I enjoy turning messy data and ambitious questions into experiments, models, and useful things.
-  <br>
-  Especially when I get to learn alongside people from different countries, disciplines, and backgrounds.
-</p>
+## biography
 
-<p align="center">
-  <a href="https://github.com/ayuchsaxena">GitHub</a>
-</p>
+hello, internet! i’m ayush, originally from india. i spend a questionable amount of time thinking about ai, data science, research, and businesses (mostly trying to figure out how things work and why some of them make money).
+
+i really like leading things, bringing people together, and taking an idea from a conversation to something real. lately, i’ve been reading *the mom test* by rob fitzpatrick (a book that makes you question whether anyone actually likes your idea or is just being nice to you). turns out, asking people if they like your idea is probably not the best way to find out if it’s any good.
+
+alright, mandatory work-related facts out of the way. walking around bengaluru when the weather decides to cooperate is one of the best things you can do here (bonus points if you have nowhere particular to be). i also enjoy getting lost in a good conversation and reading about things i had absolutely no intention of learning that day.
+
+i like chocolate. i don't like belgian waffles. i'm willing to hear arguments in favour of the latter, but the burden of proof is on you.
+
+### a few questions, while you're here
+
+- what motivates you when nobody's expecting anything from you?
+- how do you know when an idea is worth pursuing, rather than just something you can't stop thinking about?
+- if you could spend a year building absolutely anything, with no pressure to make money from it, what would you make?
+- and finally, why does everyone seem to have a favourite chocolate, but nobody has a convincing argument for belgian waffles?
+
+this is a small introduction, anyway. the repositories probably tell you what i build; the rest might tell you why. :)
 
 ---
 
-## What I’m exploring now
-
-- **Machine learning & data science** — building models, running experiments, and learning what the data actually says.
-- **Astronomy + AI** — exploring ways to use machine learning with astronomical data, including exoplanet research and data sonification.
-- **Applied AI** — taking ideas from notebooks and prototypes toward tools people can use.
-- **Open collaboration** — learning, sharing feedback, and building with international peers across research and technology.
-
-## Selected work
+## selected work
 
 | Project | Focus |
 | --- | --- |
 | [AIMO Mathematical Reasoning](https://github.com/ayuchsaxena/aimo-mathematical-reasoning) | Experiments in mathematical reasoning and model evaluation |
 | [Ariel Exoplanet ML](https://github.com/ayuchsaxena/ariel-exoplanet-ml) | Machine learning experiments for exoplanet-related data |
-| [My GitHub projects](https://github.com/ayuchsaxena?tab=repositories) | Research, data, code, and ongoing experiments |
-
-## How I like to work
-
-- Start with a question, explore the data, and test assumptions.
-- Share work early, document experiments, and learn from results—even when they fail.
-- Work with people across borders and disciplines; different perspectives make the work better.
-- Stay curious about the science, not just the score a model gets.
-
-## Always happy to connect
-
-I’m glad to meet people working in **machine learning, data science, astronomy, scientific computing, and open-source research**—especially international peers who enjoy exchanging ideas and building together.
+| [All repositories](https://github.com/ayuchsaxena?tab=repositories) | Research, data, code, and ongoing experiments |
 
 <p align="center">
   <em>Curious by default. Experimental by nature. Better together.</em>
