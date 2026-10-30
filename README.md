@@ -1,21 +1,12 @@
+# Welcome to my GitHub
+
+I like building things, exploring ideas, and learning by doing. This profile is where I share projects across AI, research, and software.
+
+## My GitHub Arcade
+
 <p align="center">
-  <img src="assets/minecraft-welcome-banner.png" alt="Minecraft-inspired welcome banner — building things one block at a time" width="100%">
+  <img src="https://raw.githubusercontent.com/ayuchsaxena/ayuchsaxena/output/pacman-contribution-graph-dark.svg" alt="Pac-Man playing through my GitHub contributions" width="100%">
 </p>
 
-# Welcome to my world
+Every contribution is another small step in building something useful. Thanks for stopping by — feel free to explore my projects.
 
-**I like building things, one block at a time.**
-
-Minecraft is a reminder that big things often start with a few simple materials, a bit of curiosity, and the willingness to experiment. I bring that same mindset to AI, research, and startups: try ideas, learn from what breaks, and keep building until something useful takes shape.
-
-## What I'm crafting
-
-- **AI and software** — turning rough ideas into tools people can use.
-- **Research** — asking questions, testing approaches, and sharing what I learn.
-- **Startups** — building with users, learning quickly, and finding what is worth making.
-
-## My GitHub world
-
-Every repository is another build. Some are experiments, some become useful tools, and all of them teach me something.
-
-*Thanks for stopping by. Have a look around and see what I'm building.*
