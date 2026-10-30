@@ -34,5 +34,5 @@ this is a small introduction, anyway. the repositories probably tell you what i 
 | [All repositories](https://github.com/ayuchsaxena?tab=repositories) | Research, data, code, and ongoing experiments |
 
 <p align="center">
-  <em>Curious by default. Experimental by nature. Better together.</em>
+
 </p>
