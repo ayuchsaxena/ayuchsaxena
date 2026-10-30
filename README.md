@@ -29,10 +29,10 @@ this is a small introduction, anyway. the repositories probably tell you what i 
 
 | Project | Focus |
 | --- | --- |
-| [Lightcurve Platform](https://github.com/use-Lightcurve/Lightcurve-Platform) | Human-grounded, end-to-end evaluation for voice agents |
-| [SAGAN](https://github.com/International-Blind-Astronomy-Olympiad/sagan) | Open-source astronomy learning platform using accessible explanations, interactive data, and sound |
 | [AIMO Mathematical Reasoning](https://github.com/ayuchsaxena/aimo-mathematical-reasoning) | Experiments in mathematical reasoning and model evaluation |
 | [Ariel Exoplanet ML](https://github.com/ayuchsaxena/ariel-exoplanet-ml) | Machine learning experiments for exoplanet-related data |
+| [Lightcurve Platform](https://github.com/use-Lightcurve/Lightcurve-Platform) | Human-grounded, end-to-end evaluation for voice agents |
+| [SAGAN](https://github.com/International-Blind-Astronomy-Olympiad/sagan) | Open-source astronomy learning platform using accessible explanations, interactive data, and sound |
 | [All repositories](https://github.com/ayuchsaxena?tab=repositories) | Research, data, code, and ongoing experiments |
 
 <p align="center">
