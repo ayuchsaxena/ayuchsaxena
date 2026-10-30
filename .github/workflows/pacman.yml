@@ -22,6 +22,29 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: pacman
 
+      - name: Add welcome message inside the Pac-Man maze
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          for path in Path("dist").glob("*.svg"):
+              svg = path.read_text(encoding="utf-8")
+              # Put a readable label in the center of the contribution-maze graphic.
+              label = (
+                  '<g id="welcome-overlay" pointer-events="none">'
+                  '<rect x="40%" y="39%" width="20%" height="22%" rx="8" '
+                  'fill="#0d1117" fill-opacity="0.88" stroke="#58a6ff" stroke-width="2"/>'
+                  '<text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" '
+                  'font-family="monospace" font-size="22" font-weight="bold" '
+                  'letter-spacing="2" fill="#ffffff" stroke="#0d1117" stroke-width="1" '
+                  'paint-order="stroke">WELCOME</text></g>'
+              )
+              if "</svg>" in svg and 'id="welcome-overlay"' not in svg:
+                  svg = svg.replace("</svg>", label + "</svg>")
+                  path.write_text(svg, encoding="utf-8")
+          PY
+
       - name: Publish generated SVG
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
